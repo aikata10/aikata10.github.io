@@ -1,1 +1,0 @@
-# aikata10.github.io
