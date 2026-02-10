@@ -91,7 +91,7 @@ section {
 
   /* keep accent color for border/background */
   border: 1px solid var(--link-color, #267CB9);
-  background: color-mix(in srgb, var(--link-color, #267CB9) 10%, transparent);
+  background: rgba(0,0,0,0.00);
 }
 
 
