@@ -22,7 +22,7 @@ header {
 
   float: none !important;
   position: static !important;
-  text-align: right;      /* looks nicer when on the right */
+  text-align: center;      /* looks nicer when on the center */
 }
 
 /* Make photo smaller + keep it aligned right */
@@ -65,7 +65,7 @@ section {
   margin-top: 10px;
   display: flex;
   gap: 12px;
-  justify-content: flex-end; /* since your header is on the right */
+  justify-content: center; /* since your header is on the right */
   align-items: center;
 }
 
@@ -141,7 +141,7 @@ section {
 
 .header-link {
   margin-top: 12px;
-  text-align: center;     /* header is on the right */
+  text-align: center;     /* header is on the center */
   font-size: 1.15em;     /* ⬅️ increase size (try 1.05–1.15) */
   font-weight: 700;      /* ⬅️ slightly bolder */
 }
