@@ -12,6 +12,8 @@ layout: default
 - Privacy-Preserving Machine Learning
 
  
+### [Patent and Publications](https://github.com/aikata10/aikata10.github.io/blob/main/patents_publications.html)
+
 ---
 ## Education
 
@@ -94,4 +96,3 @@ Homomorphic Encryption Schemes</a>
 
 ---
 
-## [Patent and Publications](https://github.com/aikata10/aikata10.github.io/blob/main/patents_publications.md)
