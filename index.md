@@ -12,7 +12,7 @@ layout: default
 - Privacy-Preserving Machine Learning
 
  
-### [Patent and Publications](https://github.com/aikata10/aikata10.github.io/blob/main/patents_publications.html)
+### [Patent and Publications](./patents_publications.html)
 
 ---
 ## Education
