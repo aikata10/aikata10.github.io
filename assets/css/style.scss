@@ -1,4 +1,19 @@
 ---
 ---
+---
+---
 
-@import "jekyll-theme-minimal";
+@import "{{ site.theme }}";
+
+/* Your overrides below */
+html { font-size: 18px; }   /* increase overall text size (try 17–20px) */
+body { line-height: 1.65; } /* optional: improves readability */
+
+/* Optional: keep headings proportional */
+h1 { font-size: 2.2em; }
+h2 { font-size: 1.6em; }
+h3 { font-size: 1.25em; }
+
+/* Optional: make sidebar/title area match */
+header { font-size: 1.0em; }
+
