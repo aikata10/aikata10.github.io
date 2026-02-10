@@ -86,9 +86,12 @@ section {
   font-size: 0.95em;
   line-height: 1.1;
 
-  color: var(--link-color, #267CB9);
-  border: 1px solid currentColor;
-  background: color-mix(in srgb, currentColor 10%, transparent);
+  font-weight: 700;                 /* bold text */
+  color: #000;                      /* black text */
+
+  /* keep accent color for border/background */
+  border: 1px solid var(--link-color, #267CB9);
+  background: color-mix(in srgb, var(--link-color, #267CB9) 10%, transparent);
 }
 
 
