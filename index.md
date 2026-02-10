@@ -16,20 +16,40 @@ layout: default
 ---
 ## Education
 
-### **Ph.D. in Computer Science** Graz University of Technology (TU Graz)  
->  *Feb 2022 – Mar 2026*  
-**PhD Thesis:**  - *Secure and Efficient Implementations of Post-Quantum Cryptographic Algorithms*  
-  Supervisor: Dr. Sujoy Sinha Roy, Assessors: Prof. Ingrid Verbauwhede, Prof. Tim Güneysuy  
+<div class="edu-item">
+  <div class="edu-top">
+    <div class="edu-title">Ph.D. in Computer Science — Graz University of Technology (TU Graz)</div>
+    <div class="edu-date">Feb 2022 – Mar 2026</div>
+  </div>
+  <div class="edu-details">
+    <div><strong>PhD Thesis:</strong> Secure and Efficient Implementations of Post-Quantum Cryptographic Algorithms</div>
+    <div><strong>Supervisor:</strong> Dr. Sujoy Sinha Roy</div>
+    <div><strong>Assessors:</strong> Prof. Ingrid Verbauwhede, Prof. Tim Güneysuy</div>
+  </div>
+</div>
 
-### **M.Sc. in Computer Science**  Graz University of Technology (TU Graz)  
->  *2020 – 2022* —  Grade: **1 (Distinction)**
-**Master’s Thesis:**  - *Efficient Polynomial Arithmetic Architecture for Saber and Dilithium*  
-  Supervisor: Dr. Sujoy Sinha Roy  
+<div class="edu-item">
+  <div class="edu-top">
+    <div class="edu-title">M.Sc. in Computer Science — Graz University of Technology (TU Graz)</div>
+    <div class="edu-date">2020 – 2022 <span class="edu-meta">• Grade: 1 (Distinction)</span></div>
+  </div>
+  <div class="edu-details">
+    <div><strong>Master’s Thesis:</strong> Efficient Polynomial Arithmetic Architecture for Saber and Dilithium</div>
+    <div><strong>Supervisor:</strong> Dr. Sujoy Sinha Roy</div>
+  </div>
+</div>
 
-### **B.Tech (Honours) in Computer Science** IIT Bhilai  
->  *2016 – 2020* — CGPA: **9.28 / 10.0** 
-**Bachelor’s Thesis:**  - *Fault Based Cryptanalysis of Lightweight Block Ciphers*  
-  Supervisor: Dr. Dhiman Saha  
+<div class="edu-item">
+  <div class="edu-top">
+    <div class="edu-title">B.Tech (Honours) in Computer Science — IIT Bhilai</div>
+    <div class="edu-date">2016 – 2020 <span class="edu-meta">• CGPA: 9.28 / 10.0</span></div>
+  </div>
+  <div class="edu-details">
+    <div><strong>Bachelor’s Thesis:</strong> Fault Based Cryptanalysis of Lightweight Block Ciphers</div>
+    <div><strong>Supervisor:</strong> Dr. Dhiman Saha</div>
+  </div>
+</div>
+
 
 
 ---
