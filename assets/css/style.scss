@@ -5,7 +5,7 @@
 
 /* Make layout stable + put sidebar on the RIGHT */
 .wrapper {
-  max-width: 1200px;      /* overall page width */
+  max-width: 1000px;      /* overall page width */
   display: flex;
   gap: 40px;              /* space between text + sidebar */
   align-items: flex-start;
