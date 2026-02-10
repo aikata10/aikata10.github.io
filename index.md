@@ -46,7 +46,7 @@ layout: default
 - [Recipient of the **Netidee Stipend**](www.isec.tugraz.at/?post_type=post&p=22715) for work towards securing the Internet. 
 - [**ÖAW Critical Infrastructure Award 2025**]([https://www.isec.tugraz.at/aikata-wins-oaw-critical-infrastructure-award/](https://stipendien.oeaw.ac.at/preise/naturwissenschaften/critical-infrastructure-award/preistraegerinnen/aikata-aikata-2024)) for PhD work on PQC and FHE. Featured in [Kleine Zeitung](https://www.kleinezeitung.at/steiermark/19479138/diese-wissenschafterin-sagt-dem-datenklau-den-kampf-an) and [Der Standard](https://www.derstandard.at/consent/tcf/story/3000000289960/selbst-fuer-quantencomputer-nicht-zu-knacken).
 - Winner of **all first three FHERMA Challenges** on privacy-preserving machine learning  
-- [**1st Prize**)(https://www.isec.tugraz.at/best-masters-thesis-award-for-iaik-student-aikata/), TU Graz Forum Technology and Society 2022 (Master’s Thesis)  
+- [**1st Prize**](https://www.isec.tugraz.at/best-masters-thesis-award-for-iaik-student-aikata/), TU Graz Forum Technology and Society 2022 (Master’s Thesis)  
 - Recipient of the **Merit-based Prime Minister’s Scholarship Scheme** during Bachelor’s studies  
 
 ---
