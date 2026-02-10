@@ -17,8 +17,8 @@
 /* Sidebar / photo (on the RIGHT) */
 header {
   order: 2;               /* <-- move header to the right */
-  flex: 0 0 240px;        /* <-- slightly narrower sidebar (optional) */
-  width: 240px;
+  flex: 0 0 220px;        /* <-- slightly narrower sidebar (optional) */
+  width: 220px;
 
   float: none !important;
   position: static !important;
@@ -126,15 +126,6 @@ section {
 .edu-details {
   margin-top: 8px;
   line-height: 1.5;
-}
-
-/* On small screens, dates wrap nicely */
-@media (max-width: 700px) {
-  .edu-top {
-    flex-direction: column;
-    gap: 4px;
-  }
-  .edu-date { white-space: normal; }
 }
 
 .header-link {
