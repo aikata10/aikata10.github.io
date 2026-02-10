@@ -3,53 +3,51 @@
 
 @import "{{ site.theme }}";
 
-header { order: 2; }
-section { order: 1; }
-
 /* Make layout stable: NO floats, use flexbox */
 .wrapper {
-  max-width: 1200px;        /* widen page (adjust 1100–1400px) */
+  max-width: 1200px;
   margin: 0 auto;
   padding: 0 20px;
 
   display: flex;
-  gap: 40px;
+  gap: 56px;              /* <-- increase space between content + sidebar */
   align-items: flex-start;
 }
 
-/* Sidebar / photo */
+/* Sidebar / photo (on the RIGHT) */
 header {
-  flex: 0 0 260px;          /* sidebar width */
-  width: 260px;
+  order: 2;               /* <-- move header to the right */
+  flex: 0 0 240px;        /* <-- slightly narrower sidebar (optional) */
+  width: 240px;
 
-  /* cancel theme float-based layout */
   float: none !important;
   position: static !important;
+  text-align: right;      /* looks nicer when on the right */
 }
 
-/* Keep photo inside sidebar, prevent overflow */
+/* Make photo smaller + keep it aligned right */
 header img {
-  max-width: 80%;
+  width: 140px;           /* <-- smaller image (try 110–160px) */
+  max-width: 100%;
   height: auto;
   display: block;
+  margin-left: auto;      /* <-- pushes image to the right */
 }
 
 /* Main content */
 section {
+  order: 1;
   flex: 1 1 auto;
   min-width: 0;
 
-  margin-right: 320px;   /* try 310–360px */
-  padding-right: 10px;   /* optional: extra breathing room */
-
-  /* cancel theme float-based layout */
   float: none !important;
   width: auto !important;
   position: static !important;
 }
 
-/* On small screens, stack (prevents any overlap) */
+/* On small screens, stack */
 @media (max-width: 900px) {
-  .wrapper { flex-direction: column; }
-  header { width: auto; flex: none; }
+  .wrapper { flex-direction: column; gap: 20px; }
+  header { width: auto; flex: none; text-align: left; }
+  header img { margin-left: 0; }
 }
