@@ -5,12 +5,12 @@ layout: default
 ## Research Interests
 
 <span class="tag">Hardware / Software Implementation</span>
-<span class="tag">Post-Quantum Cryptography</span>
-<span class="tag"><strong>F</strong>ully Homomorphic Encryption</span>
-<span class="tag">Zero-Knowledge Proofs</span>
-<span class="tag">Side-Channel Analysis</span>
+<span class="tag"><strong>P</strong>ost-<strong>Q</strong>uantum <strong>C</strong>ryptography</span>
+<span class="tag"><strong>F</strong>ully <strong>H</strong>omomorphic <strong>E</strong>ncryption</span>
+<span class="tag"><strong>Z</strong>ero-<strong>K</strong>nowledge <strong>P</strong>roofs</span>
+<span class="tag"><strong>S</strong>ide-<strong>C</strong>hannel <strong>A</strong>nalysis</span>
 <span class="tag">Cryptanalysis</span>
-<span class="tag">Privacy-Preserving Machine Learning</span>
+<span class="tag"><strong>P</strong>rivacy-<strong>P</strong>reserving <strong>M</strong>achine <strong>L</strong>earning</span>
 <br>
 
 ---
