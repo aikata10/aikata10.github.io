@@ -5,7 +5,8 @@
 
 /* Make layout stable: NO floats, use flexbox */
 .wrapper {
-  max-width: 1400px;
+  width: 100% !important;
+  max-width: 1400px !important;   /* increase this if you want */
   margin: 0 auto;
   padding: 0 20px;
 
@@ -38,6 +39,7 @@ section {
   order: 1;
   flex: 1 1 auto;
   min-width: 0;
+  max-width: none !important;   /* increase this if you want */
 
   float: none !important;
   width: auto !important;
