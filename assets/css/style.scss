@@ -50,3 +50,13 @@ section {
   header { width: auto; flex: none; text-align: left; }
   header img { margin-left: 0; }
 }
+
+.site-footer {
+  width: 100%;
+  margin-top: 40px;
+  padding-top: 16px;
+  border-top: 1px solid #e5e5e5;
+  font-size: 0.95em;
+  opacity: 0.8;
+  text-align: center;   /* centers the text */
+}
