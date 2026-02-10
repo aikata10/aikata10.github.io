@@ -2,11 +2,6 @@
 layout: default
 ---
 
-# Aikata
-
-**Dipl.-Ing. B.Tech.**  
-**Secure Systems, PhD Candidate**
-
 Aikata is in her last year of PhD ✨. She recently won the **Critical Infrastructure Award** (Austrian Academy of Sciences, ÖAW) and the **Netidee Stipend** for her PhD research on **Post-Quantum Cryptography (PQC)** and **Fully Homomorphic Encryption (FHE)**.
 
 She earned her **Master’s degree (with distinction)** in Computer Science from **TU Graz (2022)**. Her master’s thesis, **“Efficient Polynomial Arithmetic Architecture for Saber and Dilithium”**, received the **1st prize** by the **TU Graz Forum Technology and Society 2022**.
@@ -19,51 +14,27 @@ She completed her **Bachelor’s degree in Computer Science** at the **Indian In
 
 ## Contact
 
-- **Phone:** +43 316 873 - 5516  
-- **Email:** aikata@tugraz.at  
-- **Institute page:** https://www.isec.tugraz.at/people/  
-- **Room:** IF02014  
-- **TU Graz online:** https://online.tugraz.at/
+- **Email:** aikata@iitbhilai.ac.in 
 
 **Profiles:**  
-- DBLP: https://dblp.org/  
-- Google Scholar: https://scholar.google.com/  
-- GitHub: https://github.com/  
-- LinkedIn: https://in.linkedin.com/
+- [DBLP](https://dblp.org/pid/282/9289.html)  
+- [Google Scholar](https://scholar.google.com/citations?user=Z0onVEEAAAAJ&hl=en) 
+- [GitHub](https://github.com/aikata10) 
+- [LinkedIn](https://www.linkedin.com/in/aikata-12163b136/?originalSubdomain=at)
 
 ---
 
 ## Supervision
+<strong><a> Bachelor thesis Students </a></strong>
+<br class="avia-permanent-lb" />1. Tatiana Kirillova: <a href="https://docs.google.com/file/d/1y71pLf6Zvo016IQEkGsArrtsRbAWcQ46/edit?usp=docslist_api&amp;filetype=mspresentation">Automated High-depth Privacy-preserving Polynomial Approximation Evaluation</a> <br class="avia-permanent-lb" />2. Simon Mussbacher: <a href="https://tugraziaik-my.sharepoint.com/:b:/g/personal/aikata_iaik_tugraz_at/Ecm1yLt5jDFNqjXHN6kR6VoBllsHtCZpuijCcA7waglxxw?e=PEeDLK">The Joy of Hardware Implemenation Using ChatGPT</a> <br class="avia-permanent-lb" />3. Sabrina Schunn: <a href="https://tugraziaik-my.sharepoint.com/:b:/g/personal/aikata_iaik_tugraz_at/Eb8PSKvXAHxJmIxiN7jnHqEB3TLEIWVHDtym3iMxq7XqjQ?e=1xlYCU">Analysis of Polynomial Multipliers for Post-quantum Schemes</a><br class="avia-permanent-lb" />4. Emira Salkic: <a href="https://tugraziaik-my.sharepoint.com/:b:/g/personal/aikata_iaik_tugraz_at/Edex_daggYxPtiUv2ac00ygB_v3JCqzJXDN5_bccBjAGrQ?e=nX5FlT">Masking Hybrid Homomorphic Encryption Scheme- HERA</a> <br class="avia-permanent-lb" />5. Sarah Hartinger: <a href="https://tugraziaik-my.sharepoint.com/:b:/g/personal/aikata_iaik_tugraz_at/EfTghzo1oz5Gj7ydtYkKv0YB4TTqaFoywxFxU4ZdagRmTw?e=LCS7LC">Designing approximated Machine Learning models in Python for Homomorphic evaluation.</a> <br class="avia-permanent-lb" />6. Dennis Günter Köb: <a href="https://tugraziaik-my.sharepoint.com/:b:/g/personal/aikata_iaik_tugraz_at/EWhBf9HUSZ9Bu1oro4om2AYBsqyHQauBWfexOI-lnW4o4w?e=frQYVM">Polynomial Arithmetic Tools.</a> <br class="avia-permanent-lb" />7. Vincent Pischler: <a href="https://tugraziaik-my.sharepoint.com/:b:/g/personal/aikata_iaik_tugraz_at/EVss2TWo_RpAjYy02GgxJDQB4_QaO3_vSw-7sKZMVRUcLg?e=tIjNyF">Application-based comparative study of FHE schemes.</a> <br class="avia-permanent-lb" />8. Teodora-Alexandra Alexandrescu: <a href="https://tugraziaik-my.sharepoint.com/:b:/g/personal/aikata_iaik_tugraz_at/IQCwAO_FfnEWQ4EH_RYZY4g2AdwHxE1wUMfHjsKjWzdVor8?e=2xhHJo">Hardware Evaluation of modular multiplication methods.</a> <br class="avia-permanent-lb" />9. Julian Sechshauser: <a href="https://tugraziaik-my.sharepoint.com/:b:/g/personal/aikata_iaik_tugraz_at/EZQFpi2WTXZPhixjXaJY6b8BBA1sOdtzaHmrS34UD167qw?e=nGym8g">Hardware Implementation of Ascon using ChatGPT</a>
 
-### Bachelor thesis students
-1. Tatiana Kirillova — Automated High-depth Privacy-preserving Polynomial Approximation Evaluation  
-   https://docs.google.com/
-2. Simon Mussbacher — The Joy of Hardware Implemenation Using ChatGPT  
-   https://tugraziaik-my.sharepoint.com/
-3. Sabrina Schunn — Analysis of Polynomial Multipliers for Post-quantum Schemes  
-   https://tugraziaik-my.sharepoint.com/
-4. Emira Salkic — Masking Hybrid Homomorphic Encryption Scheme- HERA  
-   https://tugraziaik-my.sharepoint.com/
-5. Sarah Hartinger — Designing approximated Machine Learning models in Python for Homomorphic evaluation.  
-   https://tugraziaik-my.sharepoint.com/
-6. Dennis Günter Köb — Polynomial Arithmetic Tools.  
-   https://tugraziaik-my.sharepoint.com/
-7. Vincent Pischler — Application-based comparative study of FHE schemes.  
-   https://tugraziaik-my.sharepoint.com/
-8. Teodora-Alexandra Alexandrescu — Hardware Evaluation of modular multiplication methods.  
-   https://tugraziaik-my.sharepoint.com/
-9. Julian Sechshauser — Hardware Implementation of Ascon using ChatGPT  
-   https://tugraziaik-my.sharepoint.com/
+<br class="avia-permanent-lb" /><br class="avia-permanent-lb" />
 
-### Master thesis students
-1. Daniel Sanz Sobrino — Unified Cryptography Standards on RISC-V  
-   https://tugraziaik-my.sharepoint.com/
-2. Lando Momo Paul Junior — Designing approximated Machine Learning models for Homomorphic evaluation  
-   https://tugraziaik-my.sharepoint.com/
-3. Vid Smole — HW Implementation of Falcon Signature Scheme  
-   https://tugraziaik-my.sharepoint.com/
-4. Nedzma Musocvic — First Order Masking for Hybrid Homomorphic Encryption Schemes  
-   https://tugraziaik-my.sharepoint.com/
+
+
+<strong><a> Master thesis Students </a></strong>
+<br class="avia-permanent-lb" />1. Daniel Sanz Sobrino: <a href="https://tugraziaik-my.sharepoint.com/:b:/g/personal/aikata_iaik_tugraz_at/EQqGbtxStV9Ko2n9NFmy4SEBdcr-PNv0Ob_xOx9EQZLZuw?e=LQzFYu">Unified Cryptography Standards on RISC-V</a> <br class="avia-permanent-lb" />2. Lando Momo Paul Junior: <a href="https://tugraziaik-my.sharepoint.com/:b:/g/personal/aikata_iaik_tugraz_at/EewzHNiWBTtMpklOkqTvSWcBhK-rhET3KFYPWMPks5xDuw?e=gjIpd7">Designing approximated Machine Learning models for Homomorphic evaluation</a> <br class="avia-permanent-lb" />3. Vid Smole: <a href="https://tugraziaik-my.sharepoint.com/:b:/g/personal/aikata_iaik_tugraz_at/IQAR8G-kC2UKSon0Vrzsm5naAfV8dAjHFF6DEHUKpQRVH_M?e=SjVCDb">HW Implementation of Falcon Signature Scheme</a> <br class="avia-permanent-lb" />4. Nedzma Musocvic: <a href="https://tugraziaik-my.sharepoint.com/:b:/g/personal/aikata_iaik_tugraz_at/IQBDItq6X5wNTIk2ADMOlVgNAXZk9b1v_tJDvBbAsNza-tc?e=6rau0L">First Order Masking for Hybrid
+Homomorphic Encryption Schemes</a>
 
 ---
 
