@@ -28,7 +28,12 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        <div class="profile-icons" aria-label="Profile links">
+          <a href="https://dblp.org/pid/282/9289.html" title="DBLP" aria-label="DBLP">📚</a>
+          <a href="https://scholar.google.com/citations?user=Z0onVEEAAAAJ&hl=en" title="Google Scholar" aria-label="Google Scholar">🎓</a>
+          <a href="https://github.com/aikata10" title="GitHub" aria-label="GitHub">🐙</a>
+          <a href="https://www.linkedin.com/in/aikata-12163b136/?originalSubdomain=at" title="LinkedIn" aria-label="LinkedIn">💼</a>
+        </div>
         {% endif %}
 
         {% if site.show_downloads %}
