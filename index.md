@@ -6,7 +6,7 @@ layout: default
 
 <span class="tag">Hardware / Software Implementation</span>
 <span class="tag">Post-Quantum Cryptography</span>
-<span class="tag">Homomorphic Encryption</span>
+<span class="tag"><strong>F</strong>ully Homomorphic Encryption</span>
 <span class="tag">Zero-Knowledge Proofs</span>
 <span class="tag">Side-Channel Analysis</span>
 <span class="tag">Cryptanalysis</span>
