@@ -7,7 +7,7 @@ $base-font-size: 17px; // or 18px
 /* Make layout stable: NO floats, use flexbox */
 .wrapper {
   width: 100% !important;
-  max-width: 1020px !important;   /* increase this if you want */
+  max-width: 1050px !important;   /* increase this if you want */
   margin: 0 auto;
   padding: 0 20px;
 
@@ -20,8 +20,8 @@ body { font-size: 17px; }
 /* Sidebar / photo (on the RIGHT) */
 header {
   order: 2;               /* <-- move header to the right */
-  flex: 0 0 260px;        /* <-- slightly narrower sidebar (optional) */
-  width: 260px;
+  flex: 0 0 280px;        /* <-- slightly narrower sidebar (optional) */
+  width: 280px;
 
   float: none !important;
   position: static !important;
@@ -30,7 +30,7 @@ header {
 
 /* Make photo smaller + keep it aligned right */
 header img {
-  max-width: 80%;
+  max-width: 208px;
   height: auto;
   display: block;
   margin-left: auto;      /* <-- pushes image to the right */
