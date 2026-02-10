@@ -27,15 +27,6 @@
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
-        {% if site.github.is_user_page %}
-        <div class="profile-icons" aria-label="Profile links">
-          <a href="https://dblp.org/pid/282/9289.html" title="DBLP" aria-label="DBLP">📚</a>
-          <a href="https://scholar.google.com/citations?user=Z0onVEEAAAAJ&hl=en" title="Google Scholar" aria-label="Google Scholar">🎓</a>
-          <a href="https://github.com/aikata10" title="GitHub" aria-label="GitHub">🐙</a>
-          <a href="https://www.linkedin.com/in/aikata-12163b136/?originalSubdomain=at" title="LinkedIn" aria-label="LinkedIn">💼</a>
-        </div>
-        {% endif %}
-
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
@@ -47,12 +38,10 @@
       <section>
 
       {{ content }}
-        <br>
-        ___
-        
-        Made with ❤️
 
       </section>
+    <footer class="site-footer">Made with ❤️</footer>
+      </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
