@@ -1,6 +1,7 @@
 ---
 ---
 
+$base-font-size: 17px; // or 18px
 @import "{{ site.theme }}";
 
 /* Make layout stable: NO floats, use flexbox */
@@ -15,8 +16,7 @@
   align-items: flex-start;
 }
 body { font-size: 17px; }
-$base-font-size: 17px; // or 18px
-@import "minima";
+
 /* Sidebar / photo (on the RIGHT) */
 header {
   order: 2;               /* <-- move header to the right */
