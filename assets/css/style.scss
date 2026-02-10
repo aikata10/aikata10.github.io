@@ -6,7 +6,7 @@
 /* Make layout stable: NO floats, use flexbox */
 .wrapper {
   width: 100% !important;
-  max-width: 1400px !important;   /* increase this if you want */
+  max-width: 1300px !important;   /* increase this if you want */
   margin: 0 auto;
   padding: 0 20px;
 
@@ -18,8 +18,8 @@
 /* Sidebar / photo (on the RIGHT) */
 header {
   order: 2;               /* <-- move header to the right */
-  flex: 0 0 220px;        /* <-- slightly narrower sidebar (optional) */
-  width: 220px;
+  flex: 0 0 240px;        /* <-- slightly narrower sidebar (optional) */
+  width: 240px;
 
   float: none !important;
   position: static !important;
