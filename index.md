@@ -57,14 +57,12 @@ layout: default
 
 ## Internships
 
-### Nokia Bell Labs, Antwerp  
-**Cryptography Research Intern**  
-*Oct 2025 – Dec 2025*  
-Supervisor: Lode Hoste, Emad Heydari Beni  
+### **Cryptography Research Intern**  at the Nokia Bell Labs, Antwerp  
+> *Oct 2025 – Dec 2025*  
+ Supervisor: Lode Hoste, Emad Heydari Beni  
 
-### Robert Bosch, Bangalore  
-**Senior Engineering Intern**  
-*May 2019 – July 2019*  
+### **Senior Engineering Intern**  at Robert Bosch, Bangalore  
+> *May 2019 – July 2019*  
 Supervisor: Dr. Durga Prasad Sahoo 
 
 ---
