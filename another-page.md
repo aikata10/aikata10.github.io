@@ -5,11 +5,11 @@ layout: default
 
 ## Patents
 
-- Sujoy Sinha Roy, **Aikata**, Ahmet Can Mert, Samsung,  
+- Ahmet Can Mert, **Aikata**, Sujoy Sinha Roy, Samsung,  
   **“Method and Apparatus for Polynomial Multiplication.”**  
   *US2025244954A1* — Pending  
 
-- Sujoy Sinha Roy, **Aikata**, Ahmet Can Mert, Samsung,  
+- **Aikata**, Ahmet Can Mert, Sujoy Sinha Roy, Samsung,  
   **“Electronic Device with Chiplet Architecture for Homomorphic Encryption.”**  
   *US2025023708A1* — Pending  
 
