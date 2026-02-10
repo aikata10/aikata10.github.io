@@ -27,8 +27,7 @@ header {
 
 /* Make photo smaller + keep it aligned right */
 header img {
-  width: 140px;           /* <-- smaller image (try 110–160px) */
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
   display: block;
   margin-left: auto;      /* <-- pushes image to the right */
