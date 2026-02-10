@@ -18,7 +18,7 @@ layout: default
 
 <div class="edu-item">
   <div class="edu-top">
-    <div class="edu-title">Ph.D. in Computer Science — Graz University of Technology (TU Graz)</div>
+    <div class="edu-title">Ph.D. in Computer Science — TU Graz</div>
     <div class="edu-date">Feb 2022 – Mar 2026</div>
   </div>
   <div class="edu-details">
@@ -30,7 +30,7 @@ layout: default
 
 <div class="edu-item">
   <div class="edu-top">
-    <div class="edu-title">M.Sc. in Computer Science — Graz University of Technology (TU Graz)</div>
+    <div class="edu-title">M.Sc. in Computer Science — TU Graz</div>
     <div class="edu-date">2020 – 2022 <span class="edu-meta">• Grade: 1 (Distinction)</span></div>
   </div>
   <div class="edu-details">
