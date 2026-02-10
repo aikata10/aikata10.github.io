@@ -3,46 +3,50 @@
 
 @import "{{ site.theme }}";
 
-/* Make layout stable + put sidebar on the RIGHT */
+header { order: 2; }
+section { order: 1; }
+
+/* Make layout stable: NO floats, use flexbox */
 .wrapper {
-  max-width: 1000px;      /* overall page width */
+  max-width: 1200px;        /* widen page (adjust 1100–1400px) */
+  margin: 0 auto;
+  padding: 0 20px;
+
   display: flex;
-  gap: 40px;              /* space between text + sidebar */
+  gap: 40px;
   align-items: flex-start;
 }
 
-/* Main text column */
-section {
-  order: 1;
-  flex: 1 1 auto;         /* takes remaining space */
-  width: auto;            /* cancel theme widths */
-  float: none;            /* cancel theme floats */
-}
-
-/* Sidebar / photo column */
+/* Sidebar / photo */
 header {
-  order: 2;               /* right side */
-  width: 260px;           /* sidebar width */
-  flex: 0 0 260px;
-  float: none;            /* cancel theme floats */
-  text-align: right;
+  flex: 0 0 260px;          /* sidebar width */
+  width: 260px;
+
+  /* cancel theme float-based layout */
+  float: none !important;
+  position: static !important;
 }
 
-/* Prevent image overflow */
+/* Keep photo inside sidebar, prevent overflow */
 header img {
   max-width: 100%;
   height: auto;
   display: block;
-  margin-left: auto;      /* align image to right */
 }
 
-/* Mobile: stack nicely */
+/* Main content */
+section {
+  flex: 1 1 auto;
+  min-width: 0;
+
+  /* cancel theme float-based layout */
+  float: none !important;
+  width: auto !important;
+  position: static !important;
+}
+
+/* On small screens, stack (prevents any overlap) */
 @media (max-width: 900px) {
   .wrapper { flex-direction: column; }
-  header {
-    width: auto;
-    flex: none;
-    text-align: left;
-  }
-  header img { margin-left: 0; }
+  header { width: auto; flex: none; }
 }
