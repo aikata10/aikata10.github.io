@@ -78,14 +78,17 @@ section {
 .profile-icons a {
   text-decoration: none;
 }
+.tag {
+  display: inline-block;
+  padding: 5px 10px;
+  margin: 6px 8px 0 0;
+  border-radius: 999px;
+  font-size: 0.95em;
+  line-height: 1.1;
 
-.tag{
-  display:inline-block; padding:5px 10px; margin:6px 8px 0 0;
-  border:1px solid rgba(50,120,90,0.30);
-  border-radius:999px;
-  background:rgba(50,120,90,0.08);
-  color:#1f4d3a;
-  font-size:0.95em; line-height:1.1;
+  color: var(--link-color, #267CB9);
+  border: 1px solid currentColor;
+  background: color-mix(in srgb, currentColor 10%, transparent);
 }
 
 
