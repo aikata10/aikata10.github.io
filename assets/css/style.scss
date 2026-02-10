@@ -92,3 +92,47 @@ section {
   color: #0b3c78;                      /* bluish text */
 }
 
+.edu-item {
+  padding: 12px 14px;
+  margin: 14px 0;
+  border: 1px solid rgba(0,0,0,0.10);
+  border-radius: 10px;
+  background: rgba(0,0,0,0.02);
+}
+
+.edu-top {
+  display: flex;
+  justify-content: space-between;
+  gap: 14px;
+  align-items: baseline;
+}
+
+.edu-title {
+  font-weight: 700;
+}
+
+.edu-date {
+  white-space: nowrap;
+  opacity: 0.8;
+  font-size: 0.95em;
+}
+
+.edu-meta {
+  opacity: 0.9;
+}
+
+.edu-details {
+  margin-top: 8px;
+  line-height: 1.5;
+}
+
+/* On small screens, dates wrap nicely */
+@media (max-width: 700px) {
+  .edu-top {
+    flex-direction: column;
+    gap: 4px;
+  }
+  .edu-date { white-space: normal; }
+}
+
+
