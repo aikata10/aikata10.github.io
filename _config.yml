@@ -5,7 +5,7 @@ plugins:
 title: Aikata
 logo: /assets/img/Aikata.jpg
 description: |
-  PhD Candidate at TU Graz
+  PhD Candidate at TU Graz, Austria
   <div class="profile-icons">
     <a href="https://dblp.org/pid/282/9289.html" aria-label="DBLP">
       <img src="/assets/img/dblp.svg" alt="DBLP">
@@ -20,7 +20,7 @@ description: |
       <img src="/assets/img/linkedin.svg" alt="LinkedIn">
     </a>
   </div>
-  <p>[Patent and Publications](./patents_publications.html)</p>
+  <div class="header-link"><a href="/patents_publications.html">Patents &amp; Publications</a></div>
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
