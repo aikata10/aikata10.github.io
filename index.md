@@ -1,33 +1,45 @@
 ---
 layout: default
 ---
+## Research Interests
 
-Aikata is in her last year of PhD ✨. She recently won the **Critical Infrastructure Award** (Austrian Academy of Sciences, ÖAW) and the **Netidee Stipend** for her PhD research on **Post-Quantum Cryptography (PQC)** and **Fully Homomorphic Encryption (FHE)**.
+- Hardware / Software Implementation  
+- Post-Quantum Cryptography  
+- Homomorphic Encryption  
+- Zero Knowledge Proofs  
+- Side-Channel Analysis  
+- Cryptanalysis  
+- Privacy-Preserving Machine Learning
 
-She earned her **Master’s degree (with distinction)** in Computer Science from **TU Graz (2022)**. Her master’s thesis, **“Efficient Polynomial Arithmetic Architecture for Saber and Dilithium”**, received the **1st prize** by the **TU Graz Forum Technology and Society 2022**.
+ 
+---
+## Education
 
-She completed her **Bachelor’s degree in Computer Science** at the **Indian Institute of Technology (IIT) Bhilai**. Additionally, she won **all three** initial **FHERMA** challenges.
+### Graz University of Technology (TU Graz)  
+**Ph.D. Program in Computer Science**  
+*Feb 2022 – Mar 2026*  
+- **PhD Thesis:**  
+  *Secure and Efficient Implementations of Post-Quantum Cryptographic Algorithms*  
+  Supervisor: Dr. Sujoy Sinha Roy, Assessors: Prof. Ingrid Verbauwhede, Prof. Tim Güneysuy  
 
-**FHERMA** is a platform for FHE challenges jointly developed by **Fair Math** and the **OpenFHE** teams. The primary goal is to develop an open-source library of FHE components, initially focusing on components for **Machine Learning** and **Blockchain** applications. During her last year, she aims to explore **Zero-Knowledge Proofs** and **Europe**.
+### Graz University of Technology (TU Graz)  
+**M.Sc. in Computer Science** — Grade: **1 (Distinction)**  
+*2020 – 2022*  
+- **Master’s Thesis:**  
+  *Efficient Polynomial Arithmetic Architecture for Saber and Dilithium*  
+  Supervisor: Dr. Sujoy Sinha Roy  
+
+### Indian Institute of Technology (IIT) Bhilai  
+**B.Tech (Honours) in Computer Science** — CGPA: **9.28 / 10.0**  
+*2016 – 2020*  
+- **Bachelor’s Thesis:**  
+  *Fault Based Cryptanalysis of Lightweight Block Ciphers*  
+  Supervisor: Dr. Dhiman Saha  
+
 
 ---
 
-## Contact
-
-- **Email:** aikata@iitbhilai.ac.in 
-
-**Profiles:**  
-- [DBLP](https://dblp.org/pid/282/9289.html)  
-- [Google Scholar](https://scholar.google.com/citations?user=Z0onVEEAAAAJ&hl=en) 
-- [GitHub](https://github.com/aikata10) 
-- [LinkedIn](https://www.linkedin.com/in/aikata-12163b136/?originalSubdomain=at)
-
----
-
-
-
-
-BLOGS:
+## BLOGS:
 
 1. [The Role of NTT in PQC, FHE, and ZKP](https://hackmd.io/@rqh-_xZ_Tqi4IZJEvUTgMg/HyNy_rRJxx)
 2. FHERMA challenge winning solutions.
@@ -35,6 +47,29 @@ BLOGS:
       - [SIGN challenge solution description.](https://hackmd.io/@rqh-_xZ_Tqi4IZJEvUTgMg/SyUDz8eCa)
       - [Logistic Regression challenge description.](https://hackmd.io/@rqh-_xZ_Tqi4IZJEvUTgMg/SJPobUlCa)
 
+---
+
+## Awards and Honors
+
+- Recipient of the **Netidee Stipend** for work towards securing the Internet  
+- **ÖAW Critical Infrastructure Award 2025** for PhD work on PQC and FHE  
+- Winner of **all first three FHERMA Challenges** on privacy-preserving machine learning  
+- **1st Prize**, TU Graz Forum Technology and Society 2022 (Master’s Thesis)  
+- Recipient of the **Merit-based Prime Minister’s Scholarship Scheme** during Bachelor’s studies  
+
+---
+
+## Internships
+
+### Nokia Bell Labs, Antwerp  
+**Cryptography Research Intern**  
+*Oct 2025 – Dec 2025*  
+Supervisor: Lode Hoste, Emad Heydari Beni  
+
+### Robert Bosch, Bangalore  
+**Senior Engineering Intern**  
+*May 2019 – July 2019*  
+Supervisor: Dr. Durga Prasad Sahoo 
 
 ---
 
@@ -60,26 +95,4 @@ Homomorphic Encryption Schemes</a>
 
 ## Publications
 
-- **Attacking and Securing Hybrid Homomorphic Encryption Against Power Analysis** (2026)  
-  Aikata A., Czuprynko M., Musovic N., Salkić E., Sinha Roy S.  
-  Links: https://tugraz.elsevierpure.com/ • https://ia.cr/
-
-- **Apparatus and method with homomorphic encryption**  
-  Sinha Roy S., Aikata A., Mert A., Mukherjee A.  
-  https://tugraz.elsevierpure.com/
-
-- **FHERMA Cookbook: FHE Components for Privacy-Preserving Applications**  
-  Adamek J., Aikata A., Al Badawi A., Alexandru A., Arakelov A., Arakelov G., Binfet P., Correa V., Dumezy J., Gomenyuk S., Kononova V., Lekomtsev D., Maloney V., Nguyen C., Polyakov Y., Pianykh D., Shaul H., Schulze Darup M., Teichrib D., Tronin D.  
-  WAHC 2025 — Proceedings of the 13th Workshop on Encrypted Computing and Applied Homomorphic Cryptography  
-  Links: https://tugraz.elsevierpure.com/ • https://ia.cr/ • https://eprint.iacr.org/ • https://doi.org/
-
-- **Stealthy Hardware Trojan Attacks on MQ-Based Post-Quantum Digital Signatures**  
-  Sinha Roy S., Aikata A., Mukherjee A.  
-  LightSEC 2025  
-  https://tugraz.elsevierpure.com/
-
-- **Efficient accelerator implementation, organization and placement strategies for homomorphic encryption**  
-  Sinha Roy S., Mert A., Aikata A.  
-  https://tugraz.elsevierpure.com/
-
-More publications: https://www.isec.tugraz.at/person/aikata/
+## Patents
