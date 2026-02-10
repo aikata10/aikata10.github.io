@@ -97,10 +97,10 @@ section {
 
 .edu-item {
   padding: 12px 14px;
-  margin: 14px 0;
-  border: 1px solid rgba(0,0,0,0.01);
+  margin: 4px 0;
   border-radius: 10px;
-  background: rgba(0,0,0,0.0);
+  border: 1px solid var(--link-color, #267CB9); /* blue border */
+  background: transparent;   
 }
 
 .edu-top {
