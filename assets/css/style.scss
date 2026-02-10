@@ -3,37 +3,46 @@
 
 @import "{{ site.theme }}";
 
-/* Make the whole page wider */
-.wrapper { max-width: 1200px; }   /* try 1100–1400px */
-
-/* Move the sidebar/header to the RIGHT */
-header {
-  float: right;
-  width: 240px;        /* tweak 200–280 */
-  text-align: right;   /* makes header text align nicely */
+/* Make layout stable + put sidebar on the RIGHT */
+.wrapper {
+  max-width: 1200px;      /* overall page width */
+  display: flex;
+  gap: 40px;              /* space between text + sidebar */
+  align-items: flex-start;
 }
 
-/* Make header image align right too */
-header img {
-  display: block;
-  margin-left: auto;   /* pushes image to the right */
-  margin-right: 0;
-}
-
-/* Main content on the LEFT, take remaining width */
+/* Main text column */
 section {
-  float: left;
-  width: calc(100% - 300px); /* 240px header + ~60px gap */
+  order: 1;
+  flex: 1 1 auto;         /* takes remaining space */
+  width: auto;            /* cancel theme widths */
+  float: none;            /* cancel theme floats */
 }
 
-/* Mobile: stack normally */
-@media (max-width: 1000px) {
-  header, section {
-    float: none;
+/* Sidebar / photo column */
+header {
+  order: 2;               /* right side */
+  width: 260px;           /* sidebar width */
+  flex: 0 0 260px;
+  float: none;            /* cancel theme floats */
+  text-align: right;
+}
+
+/* Prevent image overflow */
+header img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;      /* align image to right */
+}
+
+/* Mobile: stack nicely */
+@media (max-width: 900px) {
+  .wrapper { flex-direction: column; }
+  header {
     width: auto;
+    flex: none;
     text-align: left;
   }
-  header img {
-    margin-left: 0;
-  }
+  header img { margin-left: 0; }
 }
