@@ -13,7 +13,7 @@ layout: default
 ---
 ## Education
 
-### **Ph.D. Program in Computer Science** Graz University of Technology (TU Graz)  
+### **Ph.D. in Computer Science** Graz University of Technology (TU Graz)  
 >  *Feb 2022 – Mar 2026*  
 - **PhD Thesis:**  - *Secure and Efficient Implementations of Post-Quantum Cryptographic Algorithms*  
   Supervisor: Dr. Sujoy Sinha Roy, Assessors: Prof. Ingrid Verbauwhede, Prof. Tim Güneysuy  
@@ -23,7 +23,7 @@ layout: default
 - **Master’s Thesis:**  - *Efficient Polynomial Arithmetic Architecture for Saber and Dilithium*  
   Supervisor: Dr. Sujoy Sinha Roy  
 
-### **B.Tech (Honours) in Computer Science**Indian Institute of Technology (IIT) Bhilai  
+### **B.Tech (Honours) in Computer Science** IIT Bhilai  
 >  *2016 – 2020* — CGPA: **9.28 / 10.0** 
 - **Bachelor’s Thesis:**  - *Fault Based Cryptanalysis of Lightweight Block Ciphers*  
   Supervisor: Dr. Dhiman Saha  
