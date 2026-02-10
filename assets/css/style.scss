@@ -78,3 +78,16 @@ section {
 .profile-icons a {
   text-decoration: none;
 }
+
+.tag {
+  display: inline-block;
+  padding: 4px 10px;
+  margin: 6px 6px 0 0;
+  border: 1px solid rgba(0,0,0,0.18);
+  border-radius: 999px;
+  font-size: 0.95em;
+  line-height: 1.2;
+  white-space: nowrap;
+  background: rgba(0,0,0,0.03);
+}
+
