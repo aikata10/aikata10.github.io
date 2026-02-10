@@ -60,3 +60,21 @@ section {
   opacity: 0.8;
   text-align: center;   /* centers the text */
 }
+
+.profile-icons {
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end; /* since your header is on the right */
+  align-items: center;
+}
+
+.profile-icons img {
+  width: 22px;     /* adjust size */
+  height: 22px;
+  display: block;
+}
+
+.profile-icons a {
+  text-decoration: none;
+}
