@@ -3,15 +3,16 @@
 
 @import "{{ site.theme }}";
 
-/* Your overrides below */
-html { font-size: 18px; }   /* increase overall text size (try 17–20px) */
-body { line-height: 1.65; } /* optional: improves readability */
+/* Make the whole page wider */
+.wrapper { max-width: 1200px; }   /* try 1100–1400px */
 
-/* Optional: keep headings proportional */
-h1 { font-size: 2.2em; }
-h2 { font-size: 1.6em; }
-h3 { font-size: 1.25em; }
+/* Give more space to the text column */
+header  { width: 220px; }         /* shrink sidebar (try 200–260px) */
+section { width: 900px; }         /* widen content */
 
-/* Optional: make sidebar/title area match */
-header { font-size: 1.0em; }
-
+@media (max-width: 1000px) {
+  header, section {
+    width: auto;
+    float: none;
+  }
+}
