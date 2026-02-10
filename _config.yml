@@ -4,7 +4,7 @@ plugins:
 
 title: Aikata
 logo: /assets/img/Aikata.jpg
-description: Aikata is a PhD student at TU Graz.
-show_downloads: true
+description: PhD Candidate at TU Graz, Austria
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
