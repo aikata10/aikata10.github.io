@@ -23,7 +23,7 @@ layout: default
   </div>
   <div class="edu-details">
     <div><strong>PhD Thesis:</strong> Secure and Efficient Implementations of Post-Quantum Cryptographic Algorithms</div>
-    <div><strong>Supervisor:</strong> Dr. Sujoy Sinha Roy</div>
+    <div><strong>Supervisor:</strong> Assoc. Prof. Sujoy Sinha Roy</div>
     <div><strong>Assessors:</strong> Prof. Ingrid Verbauwhede, Prof. Tim Güneysuy</div>
   </div>
 </div>
