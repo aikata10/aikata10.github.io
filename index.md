@@ -1,18 +1,14 @@
 ---
 layout: default
 ---
+
 ## Research Interests
 
-- Hardware / Software Implementation  
-- Post-Quantum Cryptography  
-- Homomorphic Encryption  
-- Zero Knowledge Proofs  
-- Side-Channel Analysis  
-- Cryptanalysis  
-- Privacy-Preserving Machine Learning
+`Hardware / Software Implementation`, `Post-Quantum Cryptography`, `Homomorphic Encryption`, `Zero Knowledge Proofs`, `Side-Channel Analysis`, `Cryptanalysis`, `Privacy-Preserving Machine Learning`
 
- 
--- [Patent and Publications](./patents_publications.html)
+<br>
+
+[Patent and Publications](./patents_publications.html)
 
 ---
 ## Education
