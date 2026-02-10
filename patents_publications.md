@@ -96,3 +96,5 @@ layout: default
 - **Aikata**, Banashri Karmakar, Dhiman Saha,  
   *Prince under Differential Fault Attack: Now in 3D.*  
   **ASHES 2020**
+
+[back](./)
