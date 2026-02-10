@@ -136,3 +136,17 @@ section {
 }
 
 
+.header-link {
+  margin-top: 10px;
+  text-align: right;     /* since your header is on the right */
+  font-size: 0.95em;
+}
+
+.header-link a {
+  text-decoration: none;
+}
+
+.header-link a:hover {
+  text-decoration: underline;
+}
+
