@@ -45,7 +45,7 @@ section {
 }
 
 /* On small screens, stack */
-@media (max-width: 950px) {
+@media (max-width: 900px) {
   .wrapper { flex-direction: column; gap: 20px; }
   header { width: auto; flex: none; text-align: left; }
   header img { margin-left: 0; }
