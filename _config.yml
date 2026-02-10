@@ -20,7 +20,7 @@ description: |
       <img src="/assets/img/linkedin.svg" alt="LinkedIn">
     </a>
   </div>
-  <div class="header-link"><a href="/patents_publications.html">Patents &amp; Publications</a></div>
+  <div class="header-link"><a href="/patents_publications.html"><strong>Patents &amp; Publications</strong></a></div>
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
