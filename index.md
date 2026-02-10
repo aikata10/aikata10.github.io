@@ -14,6 +14,44 @@ layout: default
 <br>
 
 ---
+
+I thrive on solving complex problems at the intersection of theory and implementation to build cutting-edge cryptographic systems. Let's connect to discuss opportunities in research, development, or collaborations in cybersecurity and cryptography.
+
+---
+
+## BLOG POSTS:
+
+1. [The Role of NTT in PQC, FHE, and ZKP](https://hackmd.io/@rqh-_xZ_Tqi4IZJEvUTgMg/HyNy_rRJxx)
+2. FHERMA challenge winning solutions.
+      - [Matrix Multiplication challenge solution description.](https://hackmd.io/@rqh-_xZ_Tqi4IZJEvUTgMg/HJAD7UlAp)
+      - [SIGN challenge solution description.](https://hackmd.io/@rqh-_xZ_Tqi4IZJEvUTgMg/SyUDz8eCa)
+      - [Logistic Regression challenge description.](https://hackmd.io/@rqh-_xZ_Tqi4IZJEvUTgMg/SJPobUlCa)
+
+---
+
+## Awards and Honors
+
+- [Recipient of the <strong><a>Netidee Stipend</a></strong>](www.isec.tugraz.at/?post_type=post&p=22715) for work towards securing the Internet. 
+- [**ÖAW Critical Infrastructure Award 2025**]([https://www.isec.tugraz.at/aikata-wins-oaw-critical-infrastructure-award/](https://stipendien.oeaw.ac.at/preise/naturwissenschaften/critical-infrastructure-award/preistraegerinnen/aikata-aikata-2024)) for PhD work on PQC and FHE. Featured in [Kleine Zeitung](https://www.kleinezeitung.at/steiermark/19479138/diese-wissenschafterin-sagt-dem-datenklau-den-kampf-an) and [Der Standard](https://www.derstandard.at/consent/tcf/story/3000000289960/selbst-fuer-quantencomputer-nicht-zu-knacken).
+- Winner of **all first three FHERMA Challenges** on privacy-preserving machine learning  
+- [**1st Prize**](https://www.isec.tugraz.at/best-masters-thesis-award-for-iaik-student-aikata/), TU Graz Forum Technology and Society 2022 (Master’s Thesis)  
+- Recipient of the **Merit-based Prime Minister’s Scholarship Scheme** during Bachelor’s studies  
+
+---
+
+## Internships
+
+### <strong><a> Cryptography Research Intern</a></strong>  at the Nokia Bell Labs, Antwerp  
+> *Oct 2025 – Dec 2025*  
+ Supervisor: Lode Hoste, Emad Heydari Beni  
+
+### <strong><a> Senior Engineering Intern</a></strong>  at Robert Bosch, Bangalore  
+> *May 2019 – July 2019*  
+Supervisor: Dr. Durga Prasad Sahoo 
+
+
+---
+
 ## Education
 
 <div class="edu-item">
@@ -54,38 +92,6 @@ layout: default
 
 ---
 
-## BLOGS:
-
-1. [The Role of NTT in PQC, FHE, and ZKP](https://hackmd.io/@rqh-_xZ_Tqi4IZJEvUTgMg/HyNy_rRJxx)
-2. FHERMA challenge winning solutions.
-      - [Matrix Multiplication challenge solution description.](https://hackmd.io/@rqh-_xZ_Tqi4IZJEvUTgMg/HJAD7UlAp)
-      - [SIGN challenge solution description.](https://hackmd.io/@rqh-_xZ_Tqi4IZJEvUTgMg/SyUDz8eCa)
-      - [Logistic Regression challenge description.](https://hackmd.io/@rqh-_xZ_Tqi4IZJEvUTgMg/SJPobUlCa)
-
----
-
-## Awards and Honors
-
-- [Recipient of the <strong><a>Netidee Stipend</a></strong>](www.isec.tugraz.at/?post_type=post&p=22715) for work towards securing the Internet. 
-- [**ÖAW Critical Infrastructure Award 2025**]([https://www.isec.tugraz.at/aikata-wins-oaw-critical-infrastructure-award/](https://stipendien.oeaw.ac.at/preise/naturwissenschaften/critical-infrastructure-award/preistraegerinnen/aikata-aikata-2024)) for PhD work on PQC and FHE. Featured in [Kleine Zeitung](https://www.kleinezeitung.at/steiermark/19479138/diese-wissenschafterin-sagt-dem-datenklau-den-kampf-an) and [Der Standard](https://www.derstandard.at/consent/tcf/story/3000000289960/selbst-fuer-quantencomputer-nicht-zu-knacken).
-- Winner of **all first three FHERMA Challenges** on privacy-preserving machine learning  
-- [**1st Prize**](https://www.isec.tugraz.at/best-masters-thesis-award-for-iaik-student-aikata/), TU Graz Forum Technology and Society 2022 (Master’s Thesis)  
-- Recipient of the **Merit-based Prime Minister’s Scholarship Scheme** during Bachelor’s studies  
-
----
-
-## Internships
-
-### <strong><a> Cryptography Research Intern</a></strong>  at the Nokia Bell Labs, Antwerp  
-> *Oct 2025 – Dec 2025*  
- Supervisor: Lode Hoste, Emad Heydari Beni  
-
-### <strong><a> Senior Engineering Intern</a></strong>  at Robert Bosch, Bangalore  
-> *May 2019 – July 2019*  
-Supervisor: Dr. Durga Prasad Sahoo 
-
-
----
 
 ## Teaching
 
