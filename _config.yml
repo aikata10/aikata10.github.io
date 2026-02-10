@@ -21,7 +21,7 @@ description: |
     </a>
   </div>
   <div class="header-link"><a href="/patents_publications.html"><strong>Patents &amp; Publications</strong></a></div>
-  <div class="header-link"><a href="/Supervision.html"><strong>Thesis Supervision</strong></a></div>
+  <div class="header-link"><a href="/Supervision.html"><strong>BSc &amp; MSc Project/Thesis Supervision</strong></a></div>
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
