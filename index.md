@@ -30,41 +30,18 @@ I thrive on solving complex problems at the intersection of theory and implement
 
 ---
 
-## Awards and Honors
+## Awards and Honours
 
-<ul class="awards-list">
+- <i class="fas fa-graduation-cap"></i> Recipient of the **[Netidee Stipend](https://www.isec.tugraz.at/?post_type=post&p=22715)** for work towards securing the Internet.
 
-<li>
-<i class="fas fa-graduation-cap"></i>
-Recipient of the <strong><a href="https://www.isec.tugraz.at/?post_type=post&p=22715">Netidee Stipend</a></strong> for work towards securing the Internet.
-</li>
+- <i class="fas fa-award"></i> **[ÖAW Critical Infrastructure Award 2025](https://stipendien.oeaw.ac.at/preise/naturwissenschaften/critical-infrastructure-award/preistraegerinnen/aikata-aikata-2024)** for PhD work on PQC and FHE. Featured in [Kleine Zeitung](https://www.kleinezeitung.at/steiermark/19479138/diese-wissenschafterin-sagt-dem-datenklau-den-kampf-an) and [Der Standard](https://www.derstandard.at/consent/tcf/story/3000000289960/selbst-fuer-quantencomputer-nicht-zu-knacken).
 
-<li>
-<i class="fas fa-award"></i>
-<strong><a href="https://stipendien.oeaw.ac.at/preise/naturwissenschaften/critical-infrastructure-award/preistraegerinnen/aikata-aikata-2024">ÖAW Critical Infrastructure Award 2025</a></strong>
-for PhD work on PQC and FHE.
-Featured in 
-<a href="https://www.kleinezeitung.at/steiermark/19479138/diese-wissenschafterin-sagt-dem-datenklau-den-kampf-an">Kleine Zeitung</a> and 
-<a href="https://www.derstandard.at/consent/tcf/story/3000000289960/selbst-fuer-quantencomputer-nicht-zu-knacken">Der Standard</a>.
-</li>
+- <i class="fas fa-trophy"></i> Winner of **all first three FHERMA Challenges** on privacy-preserving machine learning.
 
-<li>
-<i class="fas fa-trophy"></i>
-Winner of <strong>all first three FHERMA Challenges</strong> on privacy-preserving machine learning.
-</li>
+- <i class="fas fa-medal"></i> **[1st Prize](https://www.isec.tugraz.at/best-masters-thesis-award-for-iaik-student-aikata/)**, TU Graz Forum Technology and Society 2022 (Master’s Thesis).
 
-<li>
-<i class="fas fa-medal"></i>
-<strong><a href="https://www.isec.tugraz.at/best-masters-thesis-award-for-iaik-student-aikata/">1st Prize</a></strong>,
-TU Graz Forum Technology and Society 2022 (Master’s Thesis).
-</li>
+- <i class="fas fa-scroll"></i> Recipient of the **Merit-based Prime Minister’s Scholarship Scheme** during Bachelor’s studies.
 
-<li>
-<i class="fas fa-scroll"></i>
-Recipient of the <strong>Merit-based Prime Minister’s Scholarship Scheme</strong> during Bachelor’s studies.
-</li>
-
-</ul>
 
 ---
 
