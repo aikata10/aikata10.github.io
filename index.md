@@ -34,9 +34,9 @@ I thrive on solving complex problems at the intersection of theory and implement
 
 - <i class="fas fa-scroll"></i> Recipient of the **[Netidee Stipend](https://www.isec.tugraz.at/?post_type=post&p=22715)** for work towards securing the Internet.
 
-- <i class="fas fa-award"></i> <i class="fas fa-medal"></i> **[ÖAW Critical Infrastructure Award 2025](https://stipendien.oeaw.ac.at/preise/naturwissenschaften/critical-infrastructure-award/preistraegerinnen/aikata-aikata-2024)** for PhD work on PQC and FHE. Featured in [Kleine Zeitung](https://www.kleinezeitung.at/steiermark/19479138/diese-wissenschafterin-sagt-dem-datenklau-den-kampf-an) and [Der Standard](https://www.derstandard.at/consent/tcf/story/3000000289960/selbst-fuer-quantencomputer-nicht-zu-knacken).
+- <i class="fas fa-award"></i>  **[ÖAW Critical Infrastructure Award 2025](https://stipendien.oeaw.ac.at/preise/naturwissenschaften/critical-infrastructure-award/preistraegerinnen/aikata-aikata-2024)** for PhD work on PQC and FHE. Featured in [Kleine Zeitung](https://www.kleinezeitung.at/steiermark/19479138/diese-wissenschafterin-sagt-dem-datenklau-den-kampf-an) and [Der Standard](https://www.derstandard.at/consent/tcf/story/3000000289960/selbst-fuer-quantencomputer-nicht-zu-knacken).
 
-- <i class="fas fa-trophy"></i> Winner of **all first three FHERMA Challenges** on privacy-preserving machine learning.
+- <i class="fas fa-trophy"></i> <i class="fas fa-medal"></i> Winner of **all first three FHERMA Challenges** on privacy-preserving machine learning.
 
 - <i class="fas fa-graduation-cap"></i> **[1st Prize](https://www.isec.tugraz.at/best-masters-thesis-award-for-iaik-student-aikata/)**, TU Graz Forum Technology and Society 2022 (Master’s Thesis).
 
