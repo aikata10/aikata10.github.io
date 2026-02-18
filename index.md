@@ -23,9 +23,9 @@ I thrive on solving complex problems at the intersection of theory and implement
 
 <ul class="blog-list">
   <li><a href="https://hackmd.io/@rqh-_xZ_Tqi4IZJEvUTgMg/HyNy_rRJxx">The Role of NTT in PQC, FHE, and ZKP</a></li>
-  <li><a href="https://hackmd.io/@rqh-_xZ_Tqi4IZJEvUTgMg/HJAD7UlAp">FHERMA challenge Matrix Multiplication challenge winning solutions</a></li>
-  <li><a href="https://hackmd.io/@rqh-_xZ_Tqi4IZJEvUTgMg/SyUDz8eCa">FHERMA challenge SIGN challenge winning solutions</a></li>
-  <li><a href="https://hackmd.io/r_dCvgUOR2OThXKFiqnzrg">FHERMA challenge Logistic Regression challenge winning solutions</a></li>
+  <li><a href="https://hackmd.io/@rqh-_xZ_Tqi4IZJEvUTgMg/HJAD7UlAp">FHERMA Matrix Multiplication challenge Winning solution</a></li>
+  <li><a href="https://hackmd.io/@rqh-_xZ_Tqi4IZJEvUTgMg/SyUDz8eCa">FHERMA SIGN challenge Winning solution</a></li>
+  <li><a href="https://hackmd.io/r_dCvgUOR2OThXKFiqnzrg">FHERMA Logistic Regression challenge Winning solution</a></li>
 </ul>
 
 ---
