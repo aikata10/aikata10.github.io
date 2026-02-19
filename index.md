@@ -15,7 +15,7 @@ layout: default
 
 ---
 
-I thrive on solving complex problems at the intersection of theory and implementation to build cutting-edge cryptographic systems. Let's connect to discuss opportunities in research, development, or collaborations in cybersecurity and cryptography.
+I solve complex problems at the intersection of theory and implementation to build cutting-edge cryptographic systems. Let's connect to discuss opportunities in research, development, or collaborations in cybersecurity and cryptography.
 
 ---
 
