@@ -64,7 +64,7 @@ Supervisor: Dr. Durga Prasad Sahoo
 <div class="edu-item">
   <div class="edu-top">
     <div class="edu-title">Ph.D. in Computer Science — TU Graz</div>
-    <div class="edu-date">Feb 2022 – Mar 2026</div>
+    <div class="edu-date">Feb 2022 – Mar 2026  <span class="edu-meta">• Grade: <span class="grade-highlight">1 (Distinction)</span></span></div>
   </div>
   <div class="edu-details">
     <div>
