@@ -67,7 +67,12 @@ Supervisor: Dr. Durga Prasad Sahoo
     <div class="edu-date">Feb 2022 – Mar 2026</div>
   </div>
   <div class="edu-details">
-    <div><strong>PhD Thesis:</strong> Secure and Efficient Implementations of Post-Quantum Cryptographic Algorithms</div>
+    <div>
+      <strong>PhD Thesis:</strong> 
+      <a href="https://drive.google.com/file/d/1ZA-rek64x0jOlCWbVwzBE3x3ovJUvbFt/view?usp=sharing" target="_blank">
+        Secure and Efficient Implementations of Post-Quantum Cryptographic Algorithms
+      </a>
+    </div>
     <div><strong>Supervisor:</strong> Assoc. Prof. Sujoy Sinha Roy</div>
     <div><strong>Assessors:</strong> Prof. Ingrid Verbauwhede, Prof. Tim Güneysuy</div>
   </div>
